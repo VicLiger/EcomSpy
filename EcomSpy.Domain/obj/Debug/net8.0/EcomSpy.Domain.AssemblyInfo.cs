@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EcomSpy.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+072463eade7e98fb1c2cc1f57af5d16b5ef95abe")]
 [assembly: System.Reflection.AssemblyProductAttribute("EcomSpy.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EcomSpy.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
